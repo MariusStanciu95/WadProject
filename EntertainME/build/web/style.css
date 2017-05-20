@@ -1,0 +1,178 @@
+body {
+    height:100%;
+    background-image: url("http://bingewatchshows.com/wp-content/uploads/2015/10/modern-library-bookshelves.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+html {
+    height:100%;
+    
+    
+}
+
+.header img{
+    padding: 10px;
+}
+
+.header-text {
+font-size:xx-large;
+font-weight: bolder;
+text-align: center;
+}
+
+.header {
+    height: 20%;
+    positon:absolute;
+    background-color: #BFFF00;
+}
+
+nav li{
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+.form-element {
+margin-top:10px;
+margin-bottom:10px;
+margin-left: 5%;
+}
+
+.error{
+    color:red;
+}
+
+#nav{
+    width: 450px;
+    height: 250px;
+    overflow: scroll;
+}
+#navtext{
+    font-size: 130%;
+}
+#formNew{
+    display:none;
+}
+#formDeletion{
+    display:none;
+}
+
+
+h3{
+    display:inline;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #7BAFD4;
+}
+
+li {
+    float: left;
+    border-right:1px solid #bbb;
+    
+}
+
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: #EBEBE0;
+    text-align: center;
+    padding: 5% 7%;
+    text-decoration: none;
+}
+
+li:hover {
+    background-color: #4CAF50;
+}
+
+.active {
+    background-color: #3D3D29;
+}
+
+#left {
+    float: left;
+    opacity:0;
+    width: 15%;
+    height:100%;
+    position:relative;
+}
+
+#content{
+    margin:0 auto;
+    width:70%;
+    height:100%;
+    display: inline-block;
+}
+
+#right {
+    float: right;
+    opacity:0;
+    margin-top:0;
+    width:15%;
+    height:100%;
+    position:relative;
+}
+
+#tail {
+    float:right;
+}
+
+#center{
+    position:relative;
+    height: auto;
+    min-height: 72% !important;
+    
+    width:100%;
+    background-color: #ffffcc;
+    
+    
+  
+}
+
+#footer {
+    position:relative;
+    height:4%;
+    width:100%;
+    background-color: #3D3D29;
+    
+}
+#slider{
+    position:relative;
+    height:99%;  
+    width:80%;
+    margin-left:10%;
+    border: 2px solid white;
+}
+
+#logoImg{
+    margin-top:3%;
+    height:60%;
+    width:60%;
+    margin-left:20%;
+}
+
+form {
+    margin-left: 5%;
+    margin-top: 5%;
+    
+}
+
+#location {
+    margin-top: 5%;
+    margin-left: 5%;
+    
+}

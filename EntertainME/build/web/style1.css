@@ -1,0 +1,156 @@
+html, body {height:100%; margin-left: auto; margin-right: auto;
+       
+    background-color: #b0b0b0;
+    background-repeat:no-repeat;
+}
+
+.header img{
+    padding: 10px;
+}
+
+.header-text {
+font-size:xx-large;
+font-weight: bolder;
+text-align: center;
+}
+
+/*nav li{
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+}*/
+
+h1 {
+    font-size: 18px;
+}
+form {
+margin-top:10px;
+margin-bottom:10px;
+padding-left: 30%;
+padding-right: 20%;
+min-height: 75%;
+}
+.form-element{
+    margin: 10px;
+}
+
+.error{
+    color:red;
+}
+
+
+a{
+    color:#404040;
+}
+#navtext{
+    font-size: 130%;
+    color:#404040;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #737373;
+}
+#formNew{
+    display:none;
+}
+#formDeletion{
+    display:none;
+}
+.acc-control-space{
+    padding: 50px;
+    font-size: 120%;
+}
+#head-text{
+    font-stretch: extra-expanded;
+    font-size: 42px;
+    color:#e6e6e6;
+}
+#background-img{
+    background-color: #b0b0b0;
+    background-repeat:no-repeat;
+}
+#sub-head{
+    font-size:22px;
+    padding-left: 50%;
+    color:#bfbfbf;
+}
+h3{
+    display:inline;
+}
+#footerr {
+    position: relative;
+    float: bottom;
+    padding-left: 20%;
+    padding-top: 1%;
+    bottom:0px;
+    width:100%;
+    height:7%;
+    font-size: 120%;
+    background-color:#8c8c8c;
+}
+
+#mycarousel{
+    
+    padding-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    width:700px;
+    height:500px;
+    position: inherit;
+}
+#medium-text{
+    font-size: 22px;
+}
+
+#mynav{
+    background-color: #8c8c8c;
+    font-color: #404040;
+}
+
+#mydescription{
+    font-size: 20px;
+    color:white;
+/*    padding-left: 20%;
+    padding-right: 20%;*/
+    padding-top: 3%;
+}
+
+#logo{
+    padding-top: 4%;
+    margin-left:40%;
+    margin-right: 30%;
+    width: 500px;
+    z-index: 0;
+}
+#login{
+    background-color: #737373;
+    padding-left: 30%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 40%;
+    font-size: 120%;
+}
+#register{
+    background-color: #737373;
+    padding-left: 30%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 40%;
+    font-size: 120%;
+}
+#totheright{
+    margin-left: 20%;
+}
+label{
+    display:block;
+}
+#imgsize{
+    height:450px;
+    width: 700px;
+}
+header{
+    
+    background-color: #8c8c8c;
+}
